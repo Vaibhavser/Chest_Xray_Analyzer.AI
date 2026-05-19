@@ -5,7 +5,6 @@ This repository contains code and resources for analyzing chest X-ray images to 
 **⚠️ Medical Disclaimer**:
 **This application is for research and educational purposes only. It is not intended for clinical use, medical diagnosis, or treatment decisions. Always consult qualified healthcare professionals for medical advice.**
 
-Demo Video : https://www.loom.com/share/0f9b12e5c1234c1eae47f7535b1e5d71?sid=bc8a49c7-469b-4b2e-8e31-b6d4b4445e30
 
 - dataset :  https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia/data
 
